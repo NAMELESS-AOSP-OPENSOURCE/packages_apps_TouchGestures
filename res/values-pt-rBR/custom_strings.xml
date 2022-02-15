@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Gestures: Touchscreen gestures -->
     <string name="touchscreen_gesture_settings_title">Gestos na tela</string>
     <string name="touchscreen_gesture_settings_summary">Faça vários gestos na tela para ações rápidas</string>
     <string name="touchscreen_gestures_haptic_feedback_title">Feedback tátil</string>
@@ -23,6 +24,11 @@
     <string name="touchscreen_gesture_letter_z_title">Desenhar a letra \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Toque único</string>
     <string name="touchscreen_gesture_double_tap_title">Toque duplo</string>
+    <string name="touchscreen_gesture_up_swipe">Up Swipe</string>
+    <string name="touchscreen_gesture_left_swipe">Left Swipe</string>
+    <string name="touchscreen_gesture_right_swipe">Right Swipe</string>
+    <string name="touchscreen_gesture_down_swipe">Down Swipe</string>
+    <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">Deslizar para cima com a caneta</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Deslizar para baixo com a caneta</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Deslizar para a esquerda com a caneta</string>
@@ -43,4 +49,10 @@
     <string name="touchscreen_gesture_action_volume_up">Aumentar o volume de mídia</string>
     <string name="touchscreen_gesture_action_ambient_display">Exibir a Tela Ambiente</string>
     <string name="touchscreen_gesture_action_wake_device">Acordar o dispositivo</string>
+    <string name="touchscreen_gesture_action_wechat_pay">Wechat Pay</string>
+    <string name="touchscreen_gesture_action_alipay_pay">Alipay Pay</string>
+    <string name="touchscreen_gesture_action_wechat_scan">Wechat Scan</string>
+    <string name="touchscreen_gesture_action_alipay_scan">Alipay Scan</string>
+    <string name="touchscreen_gesture_action_alipay_trip">Alipay Trip</string>
+    <string name="touchscreen_gesture_action_wallet_trip">Wallet Trip</string>
 </resources>
