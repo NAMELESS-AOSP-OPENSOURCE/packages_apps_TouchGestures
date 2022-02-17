@@ -49,10 +49,10 @@
     <string name="touchscreen_gesture_action_volume_up">Повышение громкости медиа</string>
     <string name="touchscreen_gesture_action_ambient_display">Показать активный экран</string>
     <string name="touchscreen_gesture_action_wake_device">Пробуждение устройства</string>
-    <string name="touchscreen_gesture_action_wechat_pay">Wechat Pay</string>
-    <string name="touchscreen_gesture_action_alipay_pay">Alipay Pay</string>
-    <string name="touchscreen_gesture_action_wechat_scan">Wechat Scan</string>
-    <string name="touchscreen_gesture_action_alipay_scan">Alipay Scan</string>
-    <string name="touchscreen_gesture_action_alipay_trip">Alipay Trip</string>
-    <string name="touchscreen_gesture_action_wallet_trip">Wallet Trip</string>
+    <string name="touchscreen_gesture_action_wechat_pay">Оплата Wechat</string>
+    <string name="touchscreen_gesture_action_alipay_pay">Оплата Alipay</string>
+    <string name="touchscreen_gesture_action_wechat_scan">Сканирование Wechat</string>
+    <string name="touchscreen_gesture_action_alipay_scan">Сканирование Alipay</string>
+    <string name="touchscreen_gesture_action_alipay_trip">Путешествие Alipay</string>
+    <string name="touchscreen_gesture_action_wallet_trip">Путешеествие Wallet</string>
 </resources>
