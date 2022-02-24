@@ -39,7 +39,7 @@
     <string name="touchscreen_gesture_action_flashlight">Taschenlampe umschalten</string>
     <string name="touchscreen_gesture_action_camera">Öffne die Kamera</string>
     <string name="touchscreen_gesture_action_browser">Öffne den Browser</string>
-    <string name="touchscreen_gesture_action_dialer">Open the dialer</string>
+    <string name="touchscreen_gesture_action_dialer">Öffne die Telefon App</string>
     <string name="touchscreen_gesture_action_email">Ihre E-Mails anzeigen</string>
     <string name="touchscreen_gesture_action_messages">Ihre Nachrichten anzeigen</string>
     <string name="touchscreen_gesture_action_play_pause_music">Musik abspielen/pausieren</string>
