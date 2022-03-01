@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Gestures: Touchscreen gestures -->
-    <string name="touchscreen_gesture_settings_title">息屏手势</string>
-    <string name="touchscreen_gesture_settings_summary">使用各种息屏手势进行快捷操作</string>
+    <string name="touchscreen_gesture_settings_title">触摸屏手势</string>
+    <string name="touchscreen_gesture_settings_summary">为快捷操作采用各种触摸屏手势</string>
     <string name="touchscreen_gestures_haptic_feedback_title">触感反馈</string>
     <string name="touchscreen_gesture_two_finger_down_swipe_title">双指下滑</string>
     <string name="touchscreen_gesture_one_finger_up_swipe_title">单指向上滑动</string>
