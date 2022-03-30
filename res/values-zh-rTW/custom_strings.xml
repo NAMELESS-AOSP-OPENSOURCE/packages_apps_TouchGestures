@@ -24,10 +24,10 @@
     <string name="touchscreen_gesture_letter_z_title">畫個\"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">單點</string>
     <string name="touchscreen_gesture_double_tap_title">雙點</string>
-    <string name="touchscreen_gesture_up_swipe">Up Swipe</string>
-    <string name="touchscreen_gesture_left_swipe">Left Swipe</string>
-    <string name="touchscreen_gesture_right_swipe">Right Swipe</string>
-    <string name="touchscreen_gesture_down_swipe">Down Swipe</string>
+    <string name="touchscreen_gesture_up_swipe">上滑</string>
+    <string name="touchscreen_gesture_left_swipe">左滑</string>
+    <string name="touchscreen_gesture_right_swipe">右滑</string>
+    <string name="touchscreen_gesture_down_swipe">下滑</string>
     <!-- Gesture: Stylus gestures -->
     <string name="touchscreen_gesture_swipe_up_stylus_title">觸控筆向上滑動</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">觸控筆向下滑動</string>
