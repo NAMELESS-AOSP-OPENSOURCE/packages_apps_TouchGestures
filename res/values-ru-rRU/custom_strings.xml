@@ -55,4 +55,9 @@
     <string name="touchscreen_gesture_action_alipay_scan">Сканирование Alipay</string>
     <string name="touchscreen_gesture_action_alipay_trip">Путешествие Alipay</string>
     <string name="touchscreen_gesture_action_wallet_trip">Путешеествие Wallet</string>
+    <string name="touchscreen_gesture_action_gpay">GPay</string>
+    <string name="touchscreen_gesture_action_paytm">Paytm</string>
+    <string name="touchscreen_gesture_action_paytm_scan_pay">Paytm Scan &amp; Pay</string>
+    <string name="touchscreen_gesture_action_paytm_qr_code">QR-код Paytm</string>
+    <string name="touchscreen_gesture_action_phonepe">PhonePe</string>
 </resources>

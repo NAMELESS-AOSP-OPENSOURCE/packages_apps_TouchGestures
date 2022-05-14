@@ -55,4 +55,9 @@
     <string name="touchscreen_gesture_action_alipay_scan">Alipay Tarama</string>
     <string name="touchscreen_gesture_action_alipay_trip">Alipay Gezisi</string>
     <string name="touchscreen_gesture_action_wallet_trip">Cüzdan Gezisi</string>
+    <string name="touchscreen_gesture_action_gpay">GPay</string>
+    <string name="touchscreen_gesture_action_paytm">Paytm</string>
+    <string name="touchscreen_gesture_action_paytm_scan_pay">Paytm Tarama &amp; Ödeme</string>
+    <string name="touchscreen_gesture_action_paytm_qr_code">Paytm QR Kod</string>
+    <string name="touchscreen_gesture_action_phonepe">PhonePe</string>
 </resources>

@@ -55,4 +55,9 @@
     <string name="touchscreen_gesture_action_alipay_scan">Scan do Alipay</string>
     <string name="touchscreen_gesture_action_alipay_trip">Alipay Trip</string>
     <string name="touchscreen_gesture_action_wallet_trip">Wallet Trip</string>
+    <string name="touchscreen_gesture_action_gpay">GPay</string>
+    <string name="touchscreen_gesture_action_paytm">Paytm</string>
+    <string name="touchscreen_gesture_action_paytm_scan_pay">Escanear com o Paytm &amp; pagar</string>
+    <string name="touchscreen_gesture_action_paytm_qr_code">Código QR do Paytm</string>
+    <string name="touchscreen_gesture_action_phonepe">PhonePe</string>
 </resources>
